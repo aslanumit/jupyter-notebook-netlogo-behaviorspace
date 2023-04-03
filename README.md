@@ -1,6 +1,6 @@
 # Running NetLogo BehaviorSpace Experiments within Jupyter Notebook
 
-[![Open In Cola](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/umit1010/jupyter-notebook-netlogo-behaviorspace/blob/main/NetLogo_BehaviorSpace_in_Jupyter_Notebook_(Demo).ipynb)
+[![Open In Cola](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/umit1010/jupyter-notebook-netlogo-behaviorspace/blob/main/index.ipynb)
 
 This is a demonstration of how to run NetLogo BehaviorSpace experiments within Jupyter Notebooks and how to publish them on platforms such as Google Colab.
 
