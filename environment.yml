@@ -1,0 +1,7 @@
+name: netlogo-behaviorspace
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - openjdk
+  - pandas
