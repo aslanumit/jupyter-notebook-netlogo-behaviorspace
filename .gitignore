@@ -130,3 +130,8 @@ dmypy.json
 
 # MacOS files
 .DS_Store
+
+# NetLogo specific
+netlogo/
+NetLogo*
+*.tmp
