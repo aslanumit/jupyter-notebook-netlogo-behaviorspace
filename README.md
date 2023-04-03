@@ -8,6 +8,6 @@ This is a demonstration of how to run NetLogo BehaviorSpace experiments within J
 This approach may be useful for a couple of cases:
 
 * You are planning to publish supplemental materials for a publication.
-* You are working on a new model and you would like to generate some preliminary data for exploratory analysis.
+* You are working on a new model and you would like to generate some preliminary data for exploratory analysis within a notebook.
 
 The notebook itself has further explanations and a demo project. You can simply open it by clicking the "Open in Colab" or "launch binder" badges above.
