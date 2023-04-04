@@ -135,3 +135,5 @@ dmypy.json
 netlogo/
 NetLogo*
 *.tmp
+*.nlogo
+output/
